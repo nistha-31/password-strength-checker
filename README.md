@@ -1,2 +1,3 @@
 # password-strength-checker
-PYTHON BASED PASSWORD STRENGTH CHECKER THAT CHECKS WHETHE A PASSWORD CAN BE CLASSIFIED  AS WEAK , MEDIUM , OR STRONG.
+Python-based password strength checker that checks whether a password can be classified as weak, medium, or strong.
+
